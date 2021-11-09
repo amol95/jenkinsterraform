@@ -11,6 +11,6 @@ resource "aws_instance" "Amol-web-node-" {
 
 provider "aws"{
   region="us-east-1"
-  access_key = ""
-  secret_key = ""
+  access_key = "AKIA2S2N5ZUCU5J7GGBL"
+  secret_key = "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"
 }
